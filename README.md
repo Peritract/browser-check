@@ -1,1 +1,1 @@
-Gets information about a browser. For FCC.
+A request header parser for FCC.
